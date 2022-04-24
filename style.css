@@ -315,6 +315,21 @@ li {
     }
 
     #sidebar {
-        font-size: 30px;
+        font-size: 12px;
     }
+    li {
+        display: inline;
+      }
+}
+#linkdin {
+    width: 50px;
+    height: 50px;
+    margin-left: 50px;
+    border-radius: 5px;
+}
+#git-hub {
+    width: 50px;
+    height: 50px;
+    margin-left: 50px;
+    border-radius: 5px;
 }
